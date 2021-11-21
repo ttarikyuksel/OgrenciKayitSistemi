@@ -1,0 +1,14 @@
+C:\Users\yukse\Desktop\Bilge Adam Ders\OgrenciKayitSistemi\OgrenciKayitSistemi\bin\Debug\OgrenciKayitSistemi.exe.config
+C:\Users\yukse\Desktop\Bilge Adam Ders\OgrenciKayitSistemi\OgrenciKayitSistemi\bin\Debug\OgrenciKayitSistemi.exe
+C:\Users\yukse\Desktop\Bilge Adam Ders\OgrenciKayitSistemi\OgrenciKayitSistemi\bin\Debug\OgrenciKayitSistemi.pdb
+C:\Users\yukse\Desktop\Bilge Adam Ders\OgrenciKayitSistemi\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.csproj.AssemblyReference.cache
+C:\Users\yukse\Desktop\Bilge Adam Ders\OgrenciKayitSistemi\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.Form1.resources
+C:\Users\yukse\Desktop\Bilge Adam Ders\OgrenciKayitSistemi\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.OgrenciGirisEkrani.resources
+C:\Users\yukse\Desktop\Bilge Adam Ders\OgrenciKayitSistemi\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.Properties.Resources.resources
+C:\Users\yukse\Desktop\Bilge Adam Ders\OgrenciKayitSistemi\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.csproj.GenerateResource.cache
+C:\Users\yukse\Desktop\Bilge Adam Ders\OgrenciKayitSistemi\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.csproj.CoreCompileInputs.cache
+C:\Users\yukse\Desktop\Bilge Adam Ders\OgrenciKayitSistemi\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.exe
+C:\Users\yukse\Desktop\Bilge Adam Ders\OgrenciKayitSistemi\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.pdb
+C:\Users\yukse\Desktop\Bilge Adam Ders\OgrenciKayitSistemi\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.OgrenciKayitEkrani.resources
+C:\Users\yukse\Desktop\Bilge Adam Ders\OgrenciKayitSistemi\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.OgretmenGirisEkranı.resources
+C:\Users\yukse\Desktop\Bilge Adam Ders\OgrenciKayitSistemi\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.OgretmenKayitEkrani.resources
